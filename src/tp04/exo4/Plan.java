@@ -34,5 +34,11 @@ public class Plan {
     }
 
 
+/*    public ArrayList<Emplacement> affiche(){
+        return lesEmplacements;
+    }
+    */
+
+
 
 }
